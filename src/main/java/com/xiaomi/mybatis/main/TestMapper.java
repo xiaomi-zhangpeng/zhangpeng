@@ -8,6 +8,11 @@ import com.xiaomi.mybatis.bean.User;
 import com.xiaomi.mybatis.mapper.UserMapper;
 import com.xiaomi.mybatis.util.MyBatisUtil;
 
+/**
+ * TestMapper
+ * @author zhangpeng
+ *
+ */
 public class TestMapper {
 
 	static SqlSessionFactory sqlSessionFacotry = null;
